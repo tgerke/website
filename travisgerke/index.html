@@ -10,47 +10,30 @@
   </head>
 
   <body>
-    <div class="simple-panel" id="my-panel" data-toggler=".is-active">
-      <h4 class='text-center'>Hello, I'm a panel</h4>
-      <p>I'm just a css entity, but I'm controlled with the Toggler JS plugin.</p>
-      <br>
-      <button class="button expanded" data-toggle="my-panel">Close</button>
-    </div>
-    <div class="simple-panel right" id="my-panel-right" data-toggler=".is-active">
-      <h4 class='text-center'>Hello, I'm a panel</h4>
-      <p>I'm just a css entity, but I'm controlled with the Toggler JS plugin.</p>
-      <br>
-      <button class="button expanded" data-toggle="my-panel-right">Close</button>
-    </div>
-    <div class="simple-panel top" id="my-panel-top" data-toggler=".is-active">
-      <h4 class='text-center'>Hello, I'm a panel</h4>
-      <p>I'm just a css entity, but I'm controlled with the Toggler JS plugin.</p>
-      <br>
-      <button class="button expanded" data-toggle="my-panel-top">Close</button>
-    </div>
-    <div class="simple-panel bottom" id="my-panel-bottom" data-toggler=".is-active">
-      <h4 class='text-center'>Hello, I'm a panel</h4>
-      <p>I'm just a css entity, but I'm controlled with the Toggler JS plugin.</p>
-      <br>
-      <button class="button expanded" data-toggle="my-panel-bottom">Close</button>
-    </div>
+<!-- the trigger -->
+<div class="curtain-menu-button" data-curtain-menu-button>
+  <div class="curtain-menu-button-toggle">
+    <div class="bar1"></div>
+    <div class="bar2"></div>
+  </div>
+</div>
 
-    <div class="row column">
-      <h2>This is my main content</h2>
-      <button class="button" data-toggle="my-panel">Open Left</button>
-      <button class="button" data-toggle="my-panel-right">Open Right</button>
-      <button class="button" data-toggle="my-panel-top">Open Top</button>
-      <button class="button" data-toggle="my-panel-bottom">Open Bottom</button>
-    </div>
+<!-- the menu  -->
+<div class="curtain-menu">
+  <div class="curtain"></div>
+  <div class="curtain"></div>
+  <div class="curtain"></div>
+  <div class="curtain-menu-wrapper">
+    <ul class="curtain-menu-list menu vertical">
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Work</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </div>
+</div>
 
-     <div class="row">
-      <div class="large-12 columns">
-        <div class="callout">
-          <h3>hi, i'm travis.</h3>
-          <p>Travis Gerke is an Assistant Member in the Department of Cancer Epidemiology at Moffitt Cancer Center and a Visiting Scientist in the Department of Epidemiology at Harvard School of Public Health. Dr. Gerke&#8217;s active line of research lies in integrative molecular prostate cancer epidemiology, and is driven by concurrent interests in biostatistical methods development and computational biology. Several of his recent publications investigate tumor-based biomarkers that can distinguish aggressive from non-aggressive prostate cancers in large prospective cohorts. His methodological interests in this area concern ways in which high-dimensional data analysis techniques can be modified to discover markers that are highly specific for indolent cancer types. With regard to computational biology and statistics, he also collaborates on efforts to streamline processing, analysis, and epidemiologic translation of large-scale genomic databases such as The Cancer Genome Atlas (TCGA) and the Gene Expression Omnibus. Finally, an emerging research interest of his applies contemporary methods in causal inference to existing clinical trial data in order to discover optimal treatment sequences for metastatic castration-resistant prostate cancer. </p>
-        </div>
-      </div>
-    </div>
+
 
     <script src="js/vendor/jquery.js"></script>
     <script src="js/vendor/what-input.js"></script>
