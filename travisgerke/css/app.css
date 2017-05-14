@@ -56,15 +56,15 @@
 }
 
 .curtain-menu-wrapper .curtain-menu-list li:hover {
-  background: rgba(254, 254, 254, 0.7);
+  background: rgba(254, 254, 254, 0.7); /*color of box behind menu text on hover*/
 }
 
 .curtain-menu-wrapper .curtain-menu-list li:hover a {
-  color: #1779ba;
+  color: #1779ba; /*text color on hover in menu*/
 }
 
 .curtain-menu-wrapper .curtain-menu-list li a {
-  color: #fefefe;
+  color: #fefefe; /*text color without hover in menu*/
   -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
@@ -96,13 +96,13 @@
 }
 
 .curtain-menu .curtain:nth-child(odd) {
-  background: #0c3e5f;
+  background: #808080; /*full curtain color*/
 }
 
 .curtain-menu-button {
   position: absolute;
   top: 1.25rem;
-  right: 1.25rem;
+  left: 1.25rem; /*swapped from right: to place on LHS*/
   z-index: 5;
 }
 
@@ -110,7 +110,7 @@
   width: 2.5rem;
   height: 2.5rem;
   border-radius: 5000px;
-  background: #fefefe;
+  background: #fefefe; /*background of toggle X when not hovering*/
   position: relative;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
   cursor: pointer;
@@ -122,7 +122,7 @@
   left: 50%;
   width: 16px;
   height: 3px;
-  background: #1779ba;
+  background: #808080; /*color of toggle X when not hovering*/
   transition: -webkit-transform 0.3s;
   transition: transform 0.3s;
   transition: transform 0.3s, -webkit-transform 0.3s;
@@ -142,11 +142,11 @@
 }
 
 .curtain-menu-button-toggle:hover {
-  background: #1779ba;
+  background: #1779ba; /*background on toggle X on hover*/
 }
 
 .curtain-menu-button-toggle:hover div {
-  background: #fefefe;
+  background: #fefefe; /*color of toggle X on hover*/
 }
 
 .curtain-menu-button-toggle:active {
