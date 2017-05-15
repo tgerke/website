@@ -7,5 +7,5 @@ setwd("~/Dropbox/websites/website/travisgerke/")
 
 blogdown::new_site(theme = "nurlansu/hugo-sustain")
 
-
+blogdown::build_site(local=TRUE)
 

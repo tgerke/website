@@ -1,6 +1,7 @@
-baseurl = "https://example.com/"
+baseurl = "https://travisgerke.com/"
+relativeurls = "true"
 languageCode = "en-US"
-title = "Chris Turner"
+title = "Travis Gerke, ScD"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
@@ -12,7 +13,7 @@ theme = "hugo-sustain"
 
 [params]
   avatar = "profile.png"
-  author = "Chris Turner"
+  author = "Travis Gerke"
   description = "Describe your website"
 
   # Custom assets can be linked with their paths relative to static/
@@ -20,9 +21,9 @@ theme = "hugo-sustain"
   custom_js  = []
 
 [params.social]
-  Github        = "username"
-  Email         = "email@example.com"
-  Twitter       = "username"
+  Github        = "tgerke"
+  Email         = "travisgerke@gmail.com"
+  Twitter       = "travisgerke"
   LinkedIn      = "username"
   Stackoverflow = "username"
 
