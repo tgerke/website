@@ -1,5 +1,5 @@
 baseurl = "https://travisgerke.com/"
-relativeurls = "true"
+relativeurls = true
 languageCode = "en-US"
 title = "Travis Gerke, ScD"
 # Enable comments by entering your Disqus shortname
@@ -24,7 +24,7 @@ theme = "hugo-sustain"
   Github        = "tgerke"
   Email         = "travisgerke@gmail.com"
   Twitter       = "travisgerke"
-  LinkedIn      = "username"
+  LinkedIn      = "travisgerke"
   Stackoverflow = "username"
 
 ## Main Menu
