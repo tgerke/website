@@ -135,6 +135,7 @@ html, body {
   display: block;
   margin: 0 auto;
   margin-top: 40px;
+  margin-left: -15px;
   width: 100%;
   text-align: center;
   animation: fade 1s ease 1s both;
