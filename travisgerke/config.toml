@@ -39,7 +39,12 @@ theme = "hugo-sustain"
   weight = 200
   url = "/projects/"
 [[menu.main]]
-  name = "resume"
-  identifier = "resume"
+  name = "publications"
+  identifier = "publications"
   weight = 300
-  url = "/resume/"
+  url = "/publications/"
+[[menu.main]]
+  name = "CV"
+  identifier = "CV"
+  weight = 400
+  url = "/CV/"
