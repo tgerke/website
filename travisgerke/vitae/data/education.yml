@@ -1,15 +1,27 @@
 name: Education
 source:
-  - title: MSc in Advanced Computing
-    univ: University of Glasgow
-    place: Glasgow, UK
-    date: 2011 to 2012
-    type: thesis
-    description: Nemore verear an eos, duo accusam placerat urbanitas at, vix libris putent voluptaria ei.
-
-  - title: Major in Computer Science
-    univ: University of College London
-    place: London, UK
-    date: 2007 to 2011
+  - title: Sc.D. in Epidemiology
+    univ: Harvard School of Public Health
+    place: Boston, MA
+    date: 2014
     type: dissertation
-    description: Te dicit scripta nec, nec illud decore partem et.
+    description: Discovering and validating prognostic biomarkers in prostate cancer by focusing on population impact.
+
+  - title: A.M. in Biostatistics
+    univ: Harvard University
+    place: Cambridge, MA
+    date: 2011
+    type: thesis
+    description: environmental statistics
+
+  - title: B.A. in Mathematics
+    univ: University of Florida
+    place: Gainesville, FL
+    date: 2009
+
+  - title: B.S. in Statistics
+    univ: University of Florida
+    place: Gainesville, FL
+    date: 2009
+
+
