@@ -9,3 +9,6 @@ blogdown::new_site(theme = "nurlansu/hugo-sustain")
 
 blogdown::build_site(local=TRUE)
 
+setwd("~/Dropbox/websites/website/travisgerke/vitae")
+
+blogdown::new_site(theme = "nurlansu/hugo-vitae")
