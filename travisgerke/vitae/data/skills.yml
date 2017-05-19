@@ -1,11 +1,11 @@
-name: Programming Skills
+name: Programming
 title: Software engineering & web development
 source:
-  - name: [C/C++, Objective-C]
+  - name: [R, Bioconductor, SAS, LaTeX]
     stars: 5
 
-  - name: [Java, Python, PHP, Git]
+  - name: [Python, Git]
     stars: 4
 
-  - name: [HTML/CSS3, Javascript]
+  - name: [C/C++, Stata, HTML/CSS/JavaScript, SQL]
     stars: 3
