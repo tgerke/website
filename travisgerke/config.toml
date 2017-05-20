@@ -48,4 +48,4 @@ theme = "hugo-sustain"
   name = "CV"
   identifier = "CV"
   weight = 400
-  url = "/CV/"
+  url = "/cv/"
