@@ -142,3 +142,17 @@ footer p {
     margin-bottom: 10px;
     font-size: 10pt;
 }
+
+/* added the below for nav home button */
+.navbar-default {
+  background-color: #ffffff;
+  border-color: #ffffff;
+  font-size: 18px; /*added to increase icon size*/
+  margin: 15px 10px -25px; /*edited to reduce top margin of content locate home button*/
+}
+.navbar-default .navbar-brand {
+  color: #6b6b6b;
+}
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+  color: #6b6b6b;
+}
