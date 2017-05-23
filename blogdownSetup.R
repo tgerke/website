@@ -1,5 +1,4 @@
 library(devtools)
-
 devtools::install_github("rstudio/blogdown")
 blogdown::install_hugo()
 
@@ -12,3 +11,5 @@ blogdown::build_site(local=TRUE)
 setwd("~/Dropbox/websites/website/travisgerke/vitae")
 
 blogdown::new_site(theme = "nurlansu/hugo-vitae")
+
+blogdown::new_content("blog/firstPost.Rmd", kind="single")

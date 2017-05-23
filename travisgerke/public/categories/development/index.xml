@@ -6,33 +6,19 @@
     <description>Recent content in Development on Travis Gerke, ScD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2017 21:29:48 -0400</lastBuildDate>
     
 	<atom:link href="/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>(Hu)go Template Primer</title>
-      <link>/blog/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>setting up blogdown</title>
+      <link>/blog/firstpost/</link>
+      <pubDate>Mon, 22 May 2017 21:29:48 -0400</pubDate>
       
-      <guid>/blog/goisforlovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>/blog/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
+      <guid>/blog/firstpost/</guid>
+      <description>Needing a site redesign, I spent several weeks fiddling with skeleton and, later, Foundation off and on. There just weren’t enough hours in the day. Then, I spotted the following tweet from Julia Silge, and just over a week later, all is good using blogdown. Who would have thought web design could be done mostly in R?
+I won’t give a thorough walkthrough; thankfully, this has been beautifully covered by Amber Thomas here, and the authors of blogdown are currently working on a web-book here.</description>
     </item>
     
   </channel>

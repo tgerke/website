@@ -1,0 +1,30 @@
+---
+categories: ["blogdown", "web-dev", "templates", "themes",
+    "development",]
+date: 2017-05-22T21:29:48-04:00
+description: "blogdown setup"
+tags: ["blogdown", "web-dev"]
+title: "setting up blogdown"
+---
+
+Needing a site redesign, I spent several weeks fiddling with skeleton and, later, Foundation off and on. There just weren't enough hours in the day. Then, I spotted the following tweet from Julia Silge, and just over a week later, all is good using blogdown. Who would have thought web design could be done mostly in R?
+
+I won't give a thorough walkthrough; thankfully, this has been beautifully covered by Amber Thomas here, and the authors of blogdown are currently working on a web-book here. Here are the few lines that built this thing though:
+
+```{r, eval=FALSE}
+library(devtools)
+devtools::install_github("rstudio/blogdown")
+blogdown::install_hugo()
+
+setwd("/myWebsiteDirectory/")
+
+blogdown::new_site(theme = "nurlansu/hugo-sustain")
+```
+
+I later decided I also wanted to add in a CV page with the Vitae format, so I created a subdirectory for those pages:
+
+```{r, eval=FALSE}
+setwd("/myWebsiteDirectory/vitae")
+
+blogdown::new_site(theme = "nurlansu/hugo-vitae")
+```
