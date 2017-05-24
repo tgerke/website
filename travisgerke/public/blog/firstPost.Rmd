@@ -28,10 +28,12 @@ setwd("/myWebsiteDirectory/")
 blogdown::new_site(theme = "nurlansu/hugo-sustain")
 ```
 
-I later decided I also wanted to add in a CV page with the Vitae format, so I created a subdirectory for those pages:
+I'm using the Sustain theme from XXX, but you can generally pick from most of the Hugo themes. I later decided I also wanted to add in a CV page with the Vitae format, so I created a subdirectory for those pages:
 
 ```{r, eval=FALSE}
 setwd("/myWebsiteDirectory/vitae")
 
 blogdown::new_site(theme = "nurlansu/hugo-vitae")
 ```
+
+Since the vitae theme is essentially a single html page, I simply tailored it the way I wanted and copied the index.html file over from the public folder into the content directory of my Sustain-themed main site. 
