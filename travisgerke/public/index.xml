@@ -17,8 +17,9 @@
       <pubDate>Mon, 22 May 2017 21:29:48 -0400</pubDate>
       
       <guid>/blog/firstpost/</guid>
-      <description>Needing a site redesign, I spent several weeks fiddling with skeleton and, later, Foundation off and on. There just weren’t enough hours in the day. Then, I spotted the following tweet from Julia Silge, and just over a week later, all is good using blogdown. Who would have thought web design could be done mostly in R?
-I won’t give a thorough walkthrough; thankfully, this has been beautifully covered by Amber Thomas here, and the authors of blogdown are currently working on a web-book here.</description>
+      <description>Needing a site redesign, I spent several weeks fiddling with skeleton and, later, Foundation off and on. There just weren’t enough hours in the day. Then, I spotted the following tweet from Julia Silge.
+  This prompted the following git commit from me:   Now, just over a week later, I’ve got a site! Who would have thought web design could be done mostly in R?
+I won’t give a thorough walkthrough; thankfully, this has been beautifully covered by Amber Thomas here, and she and Yihui Xie are currently working on a web-book here.</description>
     </item>
     
     <item>

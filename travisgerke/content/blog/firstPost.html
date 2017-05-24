@@ -9,8 +9,16 @@ title: "setting up blogdown"
 
 
 
-<p>Needing a site redesign, I spent several weeks fiddling with skeleton and, later, Foundation off and on. There just weren’t enough hours in the day. Then, I spotted the following tweet from Julia Silge, and just over a week later, all is good using blogdown. Who would have thought web design could be done mostly in R?</p>
-<p>I won’t give a thorough walkthrough; thankfully, this has been beautifully covered by Amber Thomas here, and the authors of blogdown are currently working on a web-book here. Here are the few lines that built this thing though:</p>
+<p>Needing a site redesign, I spent several weeks fiddling with skeleton and, later, Foundation off and on. There just weren’t enough hours in the day. Then, I spotted the following tweet from Julia Silge.</p>
+<center>
+<img src="/img/blog/20170522/silge.png" style="width:50.0%" />
+</center>
+This prompted the following git commit from me:
+<center>
+<img src="/img/blog/20170522/slicedbread.png" style="width:50.0%" />
+</center>
+<p>Now, just over a week later, I’ve got a site! Who would have thought web design could be done mostly in R?</p>
+<p>I won’t give a thorough walkthrough; thankfully, this has been beautifully covered by Amber Thomas <a href="https://proquestionasker.github.io/blog/Making_Site/">here</a>, and she and Yihui Xie are currently working on a web-book <a href="https://bookdown.org/yihui/blogdown/">here</a>. Here are the few lines that built this thing though:</p>
 <pre class="r"><code>library(devtools)
 devtools::install_github(&quot;rstudio/blogdown&quot;)
 blogdown::install_hugo()

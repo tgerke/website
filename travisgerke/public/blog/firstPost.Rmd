@@ -7,9 +7,16 @@ tags: ["blogdown", "web-dev"]
 title: "setting up blogdown"
 ---
 
-Needing a site redesign, I spent several weeks fiddling with skeleton and, later, Foundation off and on. There just weren't enough hours in the day. Then, I spotted the following tweet from Julia Silge, and just over a week later, all is good using blogdown. Who would have thought web design could be done mostly in R?
+Needing a site redesign, I spent several weeks fiddling with skeleton and, later, Foundation off and on. There just weren't enough hours in the day. Then, I spotted the following tweet from Julia Silge.
 
-I won't give a thorough walkthrough; thankfully, this has been beautifully covered by Amber Thomas here, and the authors of blogdown are currently working on a web-book here. Here are the few lines that built this thing though:
+<center>![](/img/blog/20170522/silge.png){width=50%}</center>
+
+This prompted the following git commit from me:
+<center>![](/img/blog/20170522/slicedbread.png){width=50%}</center>
+
+Now, just over a week later, I've got a site! Who would have thought web design could be done mostly in R?
+
+I won't give a thorough walkthrough; thankfully, this has been beautifully covered by Amber Thomas <a href="https://proquestionasker.github.io/blog/Making_Site/">here</a>, and she and Yihui Xie are currently working on a web-book <a href="https://bookdown.org/yihui/blogdown/">here</a>. Here are the few lines that built this thing though:
 
 ```{r, eval=FALSE}
 library(devtools)
