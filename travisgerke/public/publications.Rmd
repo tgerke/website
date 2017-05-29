@@ -1,0 +1,59 @@
+---
+categories: []
+date: 2017-05-28T21:23:53-04:00
+description: ""
+tags: []
+title: ""
+---
+
+
+1. **Gerke TA**, Randles RH. A method for resolving ties in asymptotic relative efficiency.
+Stat Probabil Lett 2010; 80:1065--1069.
+
+2. Kachouie NN, **Gerke TA**, Huybers P, Schwartzman A. Nonparametric regression for estimation of spatiotemporal mountain glacier retreat from satellite images. IEEE Trans Geosci Remote Sens 2014; 53(3): 1135--1149.
+
+3. Shui IM, Lindstr&ouml;m S, Berndt SI, Campa D, **Gerke TA**, Penney KL, Albanes D, Berg C, Bueno-de-Mesquita HB, Chanock S, Crawford ED, Diver WR, Gapstur SM, Gaziano JM, Hoover R, Johansson M, Ma J, Navarro C, Overvad K, Siddiq A, Stampfer MJ, Stevens VL, Travis R, Trichopoulos D, Vineis P, Mucci LA, Yaeger M, Giovannucci EL, Kraft P. Prostate Cancer (PCa) Risk Variants and Risk of Fatal PCa in the National Cancer Institute Breast and Prostate Cancer Cohort Consortium. Eur Urol 2014; 65(6): 1069--1075.
+
+4. Bismar TA, Alshalalfa M, Petersen LF, Teng LH, **Gerke TA**, Bakkar A, Al-Mami A, Liu S, Dolph M, Mucci LA, Alhajj R. Interrogation of ERG gene rearrangements in prostate cancer identifies a prognostic 10-gene signature with relevant implication to patients' clinical outcome. Brit J Urol Int 2014; 113(2): 309--319.
+
+5. Penney KL, Sinnott JA, Tyekucheva S, **Gerke TA**, Shui IM, Kraft P, Sesso HD, Freedman M, Loda MF, Mucci LA, Stampfer MJ. Association of prostate cancer risk variants with gene expression in normal and tumor tissue. Cancer Epidemiol Biomarkers Prev 2015; 24(1): 255--260
+
+6. Shui IM, Mondul AM, Lindstr&ouml;m S, Tsilidis KK, Travis RC, **Gerke TA**, Albanes D, Black A, Berg CD, Bueno-de-Mesquita HB, Gapstur SM, Haiman C, Henderson B, Hoover R, Hunter DJ, Johansson M, Key TJ, Khaw K, Marchand L, Ma J, McCullough ML, Siddiq A, Stampfer M, Stram DO, Stevens VL, Trichopoulos D, Tumino R, Willett W, Ziegler RG, K&uuml;hn T, Barricarte A, Tj&oslash;nneland A, Mucci LA, Giovannucci E, Kraft P. Circulating vitamin D, vitamin D-related genetic variation, and risk of fatal prostate cancer in the National Cancer Institute Breast and Prostate Cancer Cohort Consortium. Cancer 2015; 121(12): 1949--1956.
+
+7. Sinnott JA, Rider JR, Carlsson J, **Gerke TA**, Tyekucheva S, Penney K, Sesso HD, Loda M, Parmigiani G, Fall K, Stampfer MJ, Mucci LA, Pawitan Y, Andersson S, Andr&eacute;n O. Molecular Differences in Transition Zone and Peripheral Zone Prostate Tumors. Carcinogenesis 2015; 36(6): 632--638.
+
+8. Rider JR, Fiorentino M, Kelly R, **Gerke TA**, Jordahl K, Sinnott JA, Giovannucci EL, Loda MF, Mucci LA, Finn S. Tumor expression of Adiponectin Receptor 2 and lethal prostate cancer. Carcinogenesis 2015; 36(6): 639--647.
+
+9. Terry RS, **Gerke TA**, Mason JB, Sorenson MD, Joseph JP, Dahm P, Su L. Postoperative rhabdomyolysis following robotic renal and adrenal surgery: a cautionary tale of compounding risk factors. J Robotic Surg 2015; 9(3): 195--200.
+
+10. Martin NE, **Gerke TA**, Sinnott JA, Stack EC, Andr&eacute;n O, Andersson S, Johansson J, Fiorentino M, Finn S, Fedele G, Stampfer MJ, Kantoff PW, Mucci LA, Loda MF. Measuring PI3K activation: Clinicopathologic, immunohistochemical, and RNA expression analysis in prostate cancer. Mol Cancer Res 2015; 13(10): 1431--1440.
+
+11. **Gerke TA**^&ast;^, Martin NE^&ast;^, Ding Z, Nuttall E, Stack EC, Giovannucci EL, Lis RT, Stampfer MJ, Kantoff PW, Parmigiani G, Loda MF, Mucci LA. Evaluation of the time-dependent prognostic value of a molecular signature of lethal outcome in prostate cancer. Prostate 2015; 75(16): 1926--1933.
+
+12. Ahearn T, Pettersson A, Ebot EM, **Gerke TA**, Graff R, Morais CL, Hicks J, Wilson KM, Rider JR, Sesso HD, Fiorentino M, Flavin R, Finn S, Giovannucci EL, Loda M, Stampfer MJ, De Marzo AM, Mucci LA, Lotan TL. A prospective investigation of PTEN loss and ERG expression in lethal prostate cancer. JNCI 2015; 108(2): pii djv346.
+
+13. Conboy L, **Gerke TA**, Hsu KY, St John M, Goldstein M, Schnyer R. The effectiveness of individualized acupuncture protocols in the treatment of Gulf War Illness: A pragmatic randomized clinical trial. PLoS One 2016; 11(3): e0149161.
+
+14. Lu D, Sinnott JA, Valdimarsd&oacute;ttir U, Fang F, **Gerke TA**, Tyekucheva S, Fiorentino M, Lambe M, Sesso HD, Sweeney CJ, Wilson KM, Giovannucci EL, Loda M, Mucci LA, Fall K. Stress-related signaling pathways in lethal and non-lethal prostate cancer. Clin Cancer Res 2016; 22(3): 765--772.
+
+15. Stopsack KH, **Gerke TA**, Sinnott JA, Penney KL, Tyekucheva S, Sesso HD, Andersson S, Andr&eacute;n O, Cerhan JR, Giovannucci EL, Mucci LA, Rider JR. Cholesterol metabolism and lethal prostate cancer. Cancer Res 2016; 76(16): 4785--4790.
+
+16. Preston MA, Batista JL, Carlsson SV, **Gerke TA**, Sjoberg DD, Dahl DM, Sesso H, Feldman AS, Gann PH, Vickers AJ, Mucci LA. Baseline prostate-specific antigen (PSA) levels in midlife predict lethal prostate cancer. J Clin Oncol 2016; 34(23): 2705--2711.
+
+17. Moore II RA, **Gerke TA**, Bourgoine D, Eamranond PP. Transition coach program implementation associated with thirty-day readmission rates in a community hospital setting. Arch Community Med Public Health 2016; 2(1): 022-026. DOI: 10.17352/2455-5479.000012.
+
+18. Waniga HM, **Gerke TA**, Shoemaker A, Bourgoine D, Eamranond P. The impact of revised discharge instructions on patient satisfaction. J Patient Experience 2016; 3(3): 64--68. 
+
+19. Sinnott JA, Peisch S, Tyekucheva S, **Gerke TA**, Lis RT, Rider JR, Fiorentino M, Stampfer MJ, Mucci LA, Loda M, Penney KL. Prognostic utility of a new mRNA expression signature of Gleason score. Clin Cancer Res 2016; In press: DOI: 10.1158/ 1078-0432.CCR-16-1245. 
+
+20. Kelly RS, Sinnott JA, Rider JR, Ebot E, **Gerke TA**, Bowden M, Pettersson A, Loda M, Sesso H, Kantoff PW, Martin NE, Giovannucci EL, Tyekucheva S, Vander Heiden M, Mucci LA. The role of tumor metabolism as a driver of prostate cancer progression and lethal disease: Results from a nested case-control study. Cancer Metab 2016; 4(22): DOI 10.1186/s40170-016-0161-9.
+
+21. Fankhauser CD, Mucci LA, **Gerke TA**. Re: New prostate cancer grading system predicts long-term survival following surgery for Gleason score 8-10 prostate cancer. Eur Urol 2016; In press: DOI 10.1016/j.eururo.2017.01.016. 
+
+22. Pettersson A^&ast;^, **Gerke TA**^&ast;^, Fall K, Pawitan Y, Holmberg L, Giovannucci EL, Kantoff PW, Adami H, Rider JR, Mucci LA. The ABC model of prostate cancer: a conceptual framework for the design and interpretation of prognostic studies. Cancer 2017; In press: DOI 10.1002/cncr.30582.
+
+23.  Zareba P, Flavin R, Isikbay M, Rider JR, **Gerke TA**, Finn S, Pettersson A, Giunchi F, Unger RH, Andersson SO, Giovannucci EL, Andr&eacute;n O, Fall K, Fiorentino M, Mucci LA. Perineural invasion and risk of lethal prostate cancer. Cancer Epidemiol Biomarkers Prev 2017; In press: DOI 10.1158/1055-9965.EPI-16-0237.
+
+24. Chen Z, **Gerke TA**, Bird V, Prosperi M. Trends in gene expression profiling for prostate cancer risk assessment: a systematic review. Biomed Hub 2017; 2:472146.
+
+25. Ebot E, **Gerke TA**,  Labb&eacute; D, Sinnott J, Zadra G, Rider J, Tyekucheva S, Wilson K, Kelly R, Shui I, Loda M, Kantoff P, Finn S, Vander Heiden M, Giovannucci E, Brown M, Mucci LA. Gene expression profiling of prostate tissue identifies chromatin regulation as a potential link between obesity and lethal prostate cancer. Cancer 2017; In press.

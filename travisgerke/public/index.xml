@@ -6,10 +6,21 @@
     <description>Recent content on Travis Gerke, ScD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 22 May 2017 21:29:48 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 28 May 2017 21:23:53 -0400</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>/publications/</link>
+      <pubDate>Sun, 28 May 2017 21:23:53 -0400</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>Gerke TA, Randles RH. A method for resolving ties in asymptotic relative efficiency. Stat Probabil Lett 2010; 80:1065–1069.
+ Kachouie NN, Gerke TA, Huybers P, Schwartzman A. Nonparametric regression for estimation of spatiotemporal mountain glacier retreat from satellite images. IEEE Trans Geosci Remote Sens 2014; 53(3): 1135–1149.
+ Shui IM, Lindström S, Berndt SI, Campa D, Gerke TA, Penney KL, Albanes D, Berg C, Bueno-de-Mesquita HB, Chanock S, Crawford ED, Diver WR, Gapstur SM, Gaziano JM, Hoover R, Johansson M, Ma J, Navarro C, Overvad K, Siddiq A, Stampfer MJ, Stevens VL, Travis R, Trichopoulos D, Vineis P, Mucci LA, Yaeger M, Giovannucci EL, Kraft P.</description>
+    </item>
     
     <item>
       <title>setting up blogdown</title>
