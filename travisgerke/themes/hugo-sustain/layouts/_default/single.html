@@ -26,7 +26,7 @@
           <div class="panel-body">
             <div class="blogpost">
               {{ .Content }}
-              <hr>
+              <!--<hr>
               <div class="related-posts">
                 <h5>Related Posts</h5>
                 {{ range first 3 ( where ( where .Site.Pages.ByDate.Reverse ".Params.tags" "intersect" .Params.tags ) "Permalink" "!=" .Permalink ) }}
@@ -43,10 +43,10 @@
                     </div>
                   </div>
                 {{ end }}
-              </div>
+              </div>-->
             </div>
           </div>
-          <hr>
+          <!--<hr>-->
         <!--{{ partial "disqus" . }}-->
         </div>
       </div>
