@@ -6,7 +6,6 @@ tags: []
 title: ""
 ---
 
-
 1. **Gerke TA**, Randles RH. A method for resolving ties in asymptotic relative efficiency.
 Stat Probabil Lett 2010; 80:1065--1069.
 
