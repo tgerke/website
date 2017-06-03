@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/publications/</loc>
+    <loc>/publicationssource/publications/</loc>
     <lastmod>2017-05-28T21:23:53-04:00</lastmod>
   </url>
   
@@ -23,6 +23,10 @@
   
   <url>
     <loc>/cv/</loc>
+  </url>
+  
+  <url>
+    <loc>/publications/</loc>
   </url>
   
   <url>
@@ -76,6 +80,12 @@
   <url>
     <loc>/categories/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/publicationssource/</loc>
+    <lastmod>2017-05-28T21:23:53-04:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -13,10 +13,10 @@
     
     <item>
       <title></title>
-      <link>/publications/</link>
+      <link>/publicationssource/publications/</link>
       <pubDate>Sun, 28 May 2017 21:23:53 -0400</pubDate>
       
-      <guid>/publications/</guid>
+      <guid>/publicationssource/publications/</guid>
       <description>Gerke TA, Randles RH. A method for resolving ties in asymptotic relative efficiency. Stat Probabil Lett 2010; 80:1065–1069.
  Kachouie NN, Gerke TA, Huybers P, Schwartzman A. Nonparametric regression for estimation of spatiotemporal mountain glacier retreat from satellite images. IEEE Trans Geosci Remote Sens 2014; 53(3): 1135–1149.
  Shui IM, Lindström S, Berndt SI, Campa D, Gerke TA, Penney KL, Albanes D, Berg C, Bueno-de-Mesquita HB, Chanock S, Crawford ED, Diver WR, Gapstur SM, Gaziano JM, Hoover R, Johansson M, Ma J, Navarro C, Overvad K, Siddiq A, Stampfer MJ, Stevens VL, Travis R, Trichopoulos D, Vineis P, Mucci LA, Yaeger M, Giovannucci EL, Kraft P.</description>
@@ -60,6 +60,16 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       
       <guid>/cv/</guid>
       <description>&amp;nbsp;  Travis Gerke  12902 Magnolia Drive MRC-219 Tampa, FL 33612 United States    &amp;#43;1 813 745-6448  travisgerke@gmail.com&amp;nbsp; &amp;nbsp;  Link to full CV  Education   Sc.D. in Epidemiology Harvard School of Public Health  Boston, MA 2014      A.M. in Biostatistics Harvard University  Cambridge, MA 2011      B.A. in Mathematics University of Florida  Gainesville, FL 2009      B.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>BLOG PROJECTS PUBLICATIONS CV        -- Peer-reviewed publications Last update: May 28, 2017  Gerke TA, Randles RH. A method for resolving ties in asymptotic relative efficiency. Stat Probabil Lett 2010; 80:1065–1069.
+ Kachouie NN, Gerke TA, Huybers P, Schwartzman A. Nonparametric regression for estimation of spatiotemporal mountain glacier retreat from satellite images. IEEE Trans Geosci Remote Sens 2014; 53(3): 1135–1149.</description>
     </item>
     
   </channel>
