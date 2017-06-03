@@ -4,20 +4,8 @@ source:
     description: Logistic push is a framework for partial AUC optimization. Because the method is based on penalized regressions, it can be used in high-dimensional settings and can perform feature selection with pAUC as the objective function.
     link: https://github.com/tgerke/LogisticPush
 
-  - icon: fa fa-github
-    description: An eripuit phaedrum qui, nec facer splendide ex, vel ea assum facilisi convenire. Te his neglegentur consectetuer.
-
-  - icon: fa fa-github
-    description: An alii quot tantas eum, doming platonem persecuti mea et, vim perpetua cotidieque delicatissimi in.
+  - icon: fa fa-laptop
+    description: Machine learning approaches to identifying cancer recurrence from EMR data.
 
   - icon: fa fa-globe
-    description: Vim an case vidit sententiae, est at euismod laboramus efficiantur. Ei sit brute lorem, ea eam timeam viderer aliquid, cu integre omittam moderatius quo.
-
-  - icon: fa fa-globe
-    description: Dicta causae meliore ex vel, in vix erant integre petentium. Vix ei nisl scripta recusabo, eam doming blandit facilisis.
-
-  - icon: fa fa-cog
-    description: Inermis recusabo elaboraret mea et, dicat neglegentur vim te. Nec et sanctus scriptorem, usu ex sapientem gubergren. Tamquam admodum ei usu.
-
-  - icon: fa fa-cog
-    description: Essent putant indoctum sed in, reprimique persequeris neglegentur te quo. Nam rebum tractatos partiendo at, debet ubique oporteat ut his.
+    description: Broad array of projects in collaboration with Dr. Lorelei Mucci leveraging gene expression profiling in prostate cancer.
