@@ -6,21 +6,10 @@
     <description>Recent content on Travis Gerke, ScD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 28 May 2017 21:23:53 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2017 21:29:48 -0400</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>/publicationssource/publications/</link>
-      <pubDate>Sun, 28 May 2017 21:23:53 -0400</pubDate>
-      
-      <guid>/publicationssource/publications/</guid>
-      <description>Gerke TA, Randles RH. A method for resolving ties in asymptotic relative efficiency. Stat Probabil Lett 2010; 80:1065–1069.
- Kachouie NN, Gerke TA, Huybers P, Schwartzman A. Nonparametric regression for estimation of spatiotemporal mountain glacier retreat from satellite images. IEEE Trans Geosci Remote Sens 2014; 53(3): 1135–1149.
- Shui IM, Lindström S, Berndt SI, Campa D, Gerke TA, Penney KL, Albanes D, Berg C, Bueno-de-Mesquita HB, Chanock S, Crawford ED, Diver WR, Gapstur SM, Gaziano JM, Hoover R, Johansson M, Ma J, Navarro C, Overvad K, Siddiq A, Stampfer MJ, Stevens VL, Travis R, Trichopoulos D, Vineis P, Mucci LA, Yaeger M, Giovannucci EL, Kraft P.</description>
-    </item>
     
     <item>
       <title>setting up blogdown</title>
@@ -31,26 +20,6 @@
       <description>Needing a site redesign, I spent several weeks fiddling with skeleton and, later, Foundation off and on. There just weren’t enough hours in the day. Then, I spotted the following tweet from Julia Silge.
   This prompted the following git commit from me:   Now, just over a week later, I’ve got a site! Who would have thought web design could be done mostly in R?
 I won’t give a thorough walkthrough; thankfully, this has been beautifully covered by Amber Thomas here, and she and Yihui Xie are currently working on a web-book here.</description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>/projects/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/2015/07/23/hello-r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/2015/07/23/hello-r-markdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
     <item>
