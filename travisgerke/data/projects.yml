@@ -1,14 +1,15 @@
-name: Projects
+name: Selected Projects
 source:
   - icon: fa fa-github
-    description: Ei viderer tacimates pro, quem assum ea nam. Veritus omnesque eam te. Et natum mucius tamquam vel, ea dolorem volumus deterruisset nec. Graeci mentitum sea an, eu prima elaboraret est.
+    description: Logistic push is a framework for partial AUC optimization. Because the method is based on penalized regressions, it can be used in high-dimensional settings and can perform feature selection with pAUC as the objective function.
+    link: https://github.com/tgerke/LogisticPush
 
   - icon: fa fa-github
     description: An eripuit phaedrum qui, nec facer splendide ex, vel ea assum facilisi convenire. Te his neglegentur consectetuer.
 
   - icon: fa fa-github
     description: An alii quot tantas eum, doming platonem persecuti mea et, vim perpetua cotidieque delicatissimi in.
-  
+
   - icon: fa fa-globe
     description: Vim an case vidit sententiae, est at euismod laboramus efficiantur. Ei sit brute lorem, ea eam timeam viderer aliquid, cu integre omittam moderatius quo.
 
