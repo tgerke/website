@@ -9,3 +9,15 @@ source:
 
   - icon: fa fa-globe
     description: Broad array of projects in collaboration with Dr. Lorelei Mucci leveraging gene expression profiling in prostate cancer.
+
+  - icon: fa fa-globe
+    description: Causal inference for optimal treatment regimes (Ironman).
+
+  - icon: fa fa-laptop
+    description: High-dimensional data understanding (Prosperi endotypes; Kahveci eQTL)
+
+  - icon: fa fa-github
+    description: Non-standard objective functions to increase utility of classifiers (tAUC, imbalanced learning)
+
+  - icon: fa fa-github
+    description: This website
