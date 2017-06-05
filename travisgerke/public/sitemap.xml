@@ -7,6 +7,11 @@
   </url>
   
   <url>
+    <loc>/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/cv/</loc>
   </url>
   
@@ -41,6 +46,18 @@
   <url>
     <loc>/categories/development/</loc>
     <lastmod>2017-05-22T21:29:48-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/projects/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
