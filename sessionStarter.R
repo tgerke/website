@@ -7,4 +7,4 @@ setwd("~/Dropbox/websites/website/travisgerke/")
 blogdown::new_content("blog/2017XXXX/PostName.Rmd", kind="single")
 
 # locally serve the site
-blogdown::serve_site()
+blogdown:::serve_site()
