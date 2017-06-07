@@ -1,18 +1,18 @@
 ---
 categories: ["blogdown", "web-dev", "templates", "themes",
     "development",]
-date: 2017-05-22T21:29:48-04:00
+date: 2017-06-07T21:29:48-04:00
 description: "blogdown setup"
 tags: ["blogdown", "web-dev"]
-title: "setting up blogdown"
+title: "Setting up blogdown"
 ---
 
 Needing a site redesign, I spent several weeks (er, months?) fiddling with Skeleton and, later, Foundation off and on. Both great frameworks but, for me, there just weren't enough hours in the day. Then, I spotted the following from Julia Silge.
 
-<center>![](/img/blog/20170522/silge.png){width=50%}</center>
+<center>![](/img/blog/20170607/silge.png){width=50%}</center>
 
 After about 10 minutes of fiddling with blogdown (and, apparently, thanking my lucky stars that I don't have existing hmtl widgets), I committed the following:
-<center>![](/img/blog/20170522/slicedbread.png){width=50%}</center>
+<center>![](/img/blog/20170607/slicedbread.png){width=50%}</center>
 
 Seriously, blogdown is incredible. I spent a handful of evenings wrangling the site design to my liking, and here we are! As a bonus, who would have thought web design could be done mostly in R?
 
