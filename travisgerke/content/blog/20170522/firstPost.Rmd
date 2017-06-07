@@ -7,16 +7,16 @@ tags: ["blogdown", "web-dev"]
 title: "setting up blogdown"
 ---
 
-Needing a site redesign, I spent several weeks fiddling with skeleton and, later, Foundation off and on. There just weren't enough hours in the day. Then, I spotted the following tweet from Julia Silge.
+Needing a site redesign, I spent several weeks (er, months?) fiddling with Skeleton and, later, Foundation off and on. Both great frameworks but, for me, there just weren't enough hours in the day. Then, I spotted the following from Julia Silge.
 
 <center>![](/img/blog/20170522/silge.png){width=50%}</center>
 
-This prompted the following git commit from me:
+After about 10 minutes of fiddling with blogdown (and, apparently, thanking my lucky stars that I don't have existing hmtl widgets), I committed the following:
 <center>![](/img/blog/20170522/slicedbread.png){width=50%}</center>
 
-Now, just over a week later, I've got a site! Who would have thought web design could be done mostly in R?
+Seriously, blogdown is incredible. I spent a handful of evenings wrangling the site design to my liking, and here we are! As a bonus, who would have thought web design could be done mostly in R?
 
-I won't give a thorough walkthrough; thankfully, this has been beautifully covered by Amber Thomas <a href="https://proquestionasker.github.io/blog/Making_Site/">here</a>, and she and Yihui Xie are currently working on a web-book <a href="https://bookdown.org/yihui/blogdown/">here</a>. Here are the few lines that built this thing though:
+I won't give a thorough walkthrough; thankfully, this has been beautifully covered by Amber Thomas <a href="https://proquestionasker.github.io/blog/Making_Site/">here</a>, and she and Yihui Xie are currently working on a web-book <a href="https://bookdown.org/yihui/blogdown/">here</a>. To quickly summarize my steps, here are the few lines that built this thing:
 
 ```{r, eval=FALSE}
 library(devtools)
@@ -28,7 +28,7 @@ setwd("/myWebsiteDirectory/")
 blogdown::new_site(theme = "nurlansu/hugo-sustain")
 ```
 
-I'm using the Sustain theme from XXX, but you can generally pick from most of the Hugo themes. I later decided I also wanted to add in a CV page with the Vitae format, so I created a subdirectory for those pages:
+I customized the <a href="https://github.com/nurlansu/hugo-sustain">Sustain theme</a>, but you can generally pick from most of the Hugo themes. I later decided I also wanted to add in a CV page under the <a href="https://github.com/nurlansu/hugo-vitae">Vitae theme</a>, so I created a subdirectory for those pages:
 
 ```{r, eval=FALSE}
 setwd("/myWebsiteDirectory/vitae")
@@ -36,4 +36,19 @@ setwd("/myWebsiteDirectory/vitae")
 blogdown::new_site(theme = "nurlansu/hugo-vitae")
 ```
 
-Since the vitae theme is essentially a single html page, I simply tailored it the way I wanted and copied the index.html file over from the public folder into the content directory of my Sustain-themed main site. 
+Since the vitae theme is essentially a single html page, I simply tailored it the way I wanted and copied the index.html file over from the public folder into the Content directory of my Sustain-themed main site. I'm pretty happy with the resulting hack for installing two themes in the same site.
+
+I did a similar thing for my publications page, which was initially built from `blogdown::new_content("publications.Rmd", kind="single")` and then transferred into Content. 
+
+From here on, new blog entries and page updates happen through the following two lines:
+```{r, eval=FALSE}
+# make a new blog entry
+blogdown::new_content("blog/2017XXXX/PostName.Rmd", kind="single")
+
+# locally serve the site
+blogdown:::serve_site()
+```
+
+Something it took me a few minutes to figure out: the site was navigating fine in RStudio, but when I opened it in Chrome/Safari, none of the links were locally directed. To make links relative, the following line must be in your config.toml file `relativeurls = true` (this parameter was absent from the initial config file delivered with Sustain). 
+
+Lastly, the Font Awesome icons are amazing and used everywhere; however, they don't include some of the more academic links (e.g. Google Scholar, arXiv) that one might wish to use. Check <a href="http://jpswalsh.github.io/academicons/">academicons</a> to get your fix. 

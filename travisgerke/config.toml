@@ -14,7 +14,7 @@ theme = "hugo-sustain"
 [params]
   avatar = "profile.png"
   author = "Travis Gerke"
-  description = "Describe your website"
+  description = "Website of Travis Gerke, ScD. Focus on molecular epidemiology, biostatistics, computer science, and genetics."
 
   # Custom assets can be linked with their paths relative to static/
   custom_css = []
