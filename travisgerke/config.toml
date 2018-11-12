@@ -30,16 +30,21 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   Stackoverflow = "users/7410711/travis-gerke"
 
 ## Main Menu
+## [[menu.main]]
+##   name = "blog"
+##   weight = 100
+##   identifier = "blog"
+##   url = "/blog/"
+## [[menu.main]]
+##   name = "projects"
+##   identifier = "projects"
+##   weight = 200
+##   url = "/projects/"
 [[menu.main]]
-  name = "blog"
-  weight = 100
-  identifier = "blog"
-  url = "/blog/"
-[[menu.main]]
-  name = "projects"
-  identifier = "projects"
+  name = "lab"
+  identifier = "lab"
   weight = 200
-  url = "/projects/"
+  url = "https://www.gerkelab.com/"
 [[menu.main]]
   name = "publications"
   identifier = "publications"
