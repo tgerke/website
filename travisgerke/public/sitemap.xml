@@ -21,13 +21,13 @@
   </url>
   
   <url>
-    <loc>/categories/blogdown/</loc>
+    <loc>/tags/blogdown/</loc>
     <lastmod>2017-06-07T21:29:48-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/blogdown/</loc>
+    <loc>/categories/blogdown/</loc>
     <lastmod>2017-06-07T21:29:48-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -51,13 +51,13 @@
   </url>
   
   <url>
-    <loc>/categories/projects/</loc>
+    <loc>/tags/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/projects/</loc>
+    <loc>/categories/projects/</loc>
     <lastmod>2016-10-02T22:55:05-04:00</lastmod>
     <priority>0</priority>
   </url>
@@ -87,13 +87,13 @@
   </url>
   
   <url>
-    <loc>/categories/web-dev/</loc>
+    <loc>/tags/web-dev/</loc>
     <lastmod>2017-06-07T21:29:48-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/web-dev/</loc>
+    <loc>/categories/web-dev/</loc>
     <lastmod>2017-06-07T21:29:48-04:00</lastmod>
     <priority>0</priority>
   </url>
